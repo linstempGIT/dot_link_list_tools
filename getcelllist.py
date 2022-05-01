@@ -162,7 +162,7 @@ def judge_penetration(dll, start, end):
 def get_identity_cells_li(dll):
     '''
     该函数用于获得dll的基闭包元的同一性,
-    返回同一基闭元列表.
+    返回同一基闭包元列表.
     即, 对所有具有同一性的基闭包元, 放置在同一列表内
 
     '''
