@@ -50,7 +50,7 @@ def extend_chain(super_list, dll, narrow=True):
 def get_min_chain_li(dll, dot, simplified=True):
     '''
     该函数求得点链表中的单点最小闭包元
-    simplified函数:
+    simplified参数:
     决定返回的最小闭包元列表是否为最简
     '''
     
